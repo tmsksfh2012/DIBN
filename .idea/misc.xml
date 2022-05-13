@@ -3,13 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/drawable/edit.xml" value="0.25" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/drawable/radius.xml" value="0.17229729729729729" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/drawable/radius_line.xml" value="0.265625" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/drawable/viewbtn.xml" value="0.25" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_login.xml" value="0.2" />
-        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign.xml" value="0.2" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_mypage.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_order_fin.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_order_list.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_login.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_main.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_sign.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_sign_up1.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_sign_up2.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_sign_up3.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_owner_upload.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign.xml" value="0.264" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign_up.xml" value="0.264" />
-        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign_up1.xml" value="0.264" />
+        <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign_up1.xml" value="0.2" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign_up2.xml" value="0.264" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_sign_up3.xml" value="0.264" />
         <entry key="..\:/Users/jsh/AndroidStudioProjects/MyPog/app/src/main/res/layout/fragment_signup2.xml" value="0.24947916666666667" />
