@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.junga.mypog.fragment.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.junga.mypog.fragment.SignUpFragment"
+        android:label="fragment_sign_up1"
+        tools:layout="@layout/fragment_sign_up1" >
+        <action
+            android:id="@+id/action_signUpFragment_to_signUp2Fragment3"
+            app:destination="@id/signUp2Fragment3" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUp2Fragment3"
+        android:name="com.junga.mypog.fragment.SignUp2Fragment"
+        android:label="fragment_sign_up2"
+        tools:layout="@layout/fragment_sign_up2" >
+        <action
+            android:id="@+id/action_signUp2Fragment3_to_signUp3Fragment3"
+            app:destination="@id/signUp3Fragment3" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUp3Fragment3"
+        android:name="com.junga.mypog.fragment.SignUp3Fragment"
+        android:label="fragment_sign_up3"
+        tools:layout="@layout/fragment_sign_up3" >
+        <action
+            android:id="@+id/action_signUp3Fragment3_to_signFragment"
+            app:destination="@id/signFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signFragment"
+        android:name="com.junga.mypog.fragment.SignFragment"
+        android:label="fragment_sign"
+        tools:layout="@layout/fragment_sign" />
+
+</navigation>
